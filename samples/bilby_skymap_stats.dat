@@ -1,0 +1,3 @@
+# /home/charlie.hoy/virtualenvs/pesummary/bin/ligo-skymap-stats /home/charlie.hoy/projects/bilby/GWTC1/webpage/GW170809/samples/bilby_skymap.fits -p 50 90 -o /home/charlie.hoy/projects/bilby/GWTC1/webpage/GW170809/samples/bilby_skymap_stats.dat
+coinc_event_id	runtime	distmean	diststd	log_bci	log_bsn	area(50)	area(90)	dist(50)	dist(90)	vol(50)	vol(90)
+None	nan	966.7593113777763	220.176567617105	nan	nan	73.65166920740377	381.18418066312256	310.04123135899	772.2829532492186	15893552.73183822	104081110.26799436
